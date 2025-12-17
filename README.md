@@ -1,7 +1,5 @@
 # Miguel Angel Mayori - Senior Software Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mmayori/)
-
 Welcome to my GitHub! I'm a Senior Software Engineer with 16+ years of experience, specializing in backend development, architecture, and cloud-based solutions. I have a strong background in building scalable and performant applications using modern technologies like .NET(C#), SpringBoot(Java), Node.js, Python(Django, FastAPI, Flask), PHP, and more.
 
 ## 🚀 Technologies & Skills
@@ -36,15 +34,6 @@ Welcome to my GitHub! I'm a Senior Software Engineer with 16+ years of experienc
 ![Graph Developer](https://img.shields.io/badge/Graph_Developer-%23E10098.svg?&logo=graphql&logoColor=white)
 
 ## 🌱 Currently Learning
-
-- AWS CDK (Cloud Development Kit) and more advanced serverless architectures
-- Advanced Terraform for infrastructure management
-- Machine learning fundamentals using Python (TensorFlow, PyTorch)
-
----
-
-Thanks for visiting my GitHub profile! Feel free to explore my repositories, contribute, or reach out if you'd like to collaborate on a project.
-
 
 - AWS CDK (Cloud Development Kit) and more advanced serverless architectures
 - Advanced Terraform for infrastructure management
