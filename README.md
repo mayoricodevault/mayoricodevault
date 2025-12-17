@@ -44,18 +44,7 @@ Welcome to my GitHub! I'm a Senior Software Engineer with 16+ years of experienc
 ---
 
 Thanks for visiting my GitHub profile! Feel free to explore my repositories, contribute, or reach out if you'd like to collaborate on a project.
-- ![AWS ML Engineer](https://img.shields.io/badge/AWS_ML_Engineer-%23FF9900.svg?&logo=amazonaws&logoColor=white) AWS Certified Machine Learning Engineer - Associate, Amazon Web Services (AWS) (03/01/25 - 03/31/28)
-- ![AWS AI Practitioner](https://img.shields.io/badge/AWS_AI_Practitioner-%23FF9900.svg?&logo=amazonaws&logoColor=white) AWS Certified AI Practitioner, Amazon Web Services (AWS) (02/01/25 - 02/29/28)
-- ![AWS Developer](https://img.shields.io/badge/AWS_Developer-%23FF9900.svg?&logo=amazonaws&logoColor=white) AWS Certified Developer - Associate, Amazon Web Services (AWS) (02/01/25 - 02/29/28)
-- ![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-%23FF9900.svg?&logo=amazonaws&logoColor=white) AWS Certified Solutions Architect - Associate, Amazon Web Services (AWS) (02/01/25 - 02/29/28)
 
-### 🏅 **HashiCorp Certified:**
-- ![Terraform Associate](https://img.shields.io/badge/Terraform_Associate-%238C45B7.svg?&logo=hashicorp&logoColor=white) HashiCorp Certified: Terraform Associate (003), HashiCorp (03/01/25 - 03/31/27)
-
-### 🏅 **Apollo GraphQL Certified:**
-- ![Graph Developer](https://img.shields.io/badge/Graph_Developer-%23E10098.svg?&logo=graphql&logoColor=white) Graph Developer - Associate, Apollo GraphQL (06/01/24 - 06/30/26)
-
-## 🌱 Currently Learning
 
 - AWS CDK (Cloud Development Kit) and more advanced serverless architectures
 - Advanced Terraform for infrastructure management
